@@ -3,5 +3,5 @@
 
 # Environments
 - JDK 8
-- AndroidStudio 2.3
+- AndroidStudio 3.1.2
 
